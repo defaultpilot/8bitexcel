@@ -1,4 +1,4 @@
 # 8bitexcel
 play retro games on sheets or excel
 <hr>
-make data fun :D
+<strong>make data fun :D</strong>
